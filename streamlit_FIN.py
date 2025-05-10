@@ -37,9 +37,9 @@ def align_columns(input_df):
 
 # --- Cluster-based interventions ---
 cluster_interventions = {
-    1: "Focus on improving grades, increasing study time, and reducing absences.",
-    2: "Reduce absences, eliminate course failures, and increase study time.",
-    3: "Maintain high grades, sustain good study habits, and monitor health.",
+    1: "Mentorship and motivational support to stay on track",
+    2: "Intensive tutoring, attendance monitoring, and behavioral support to reduce dropout risk.",
+    3: "Enrichment programs and university guidance to sustain engagement and growth.",
 }
 
 # --- Streamlit UI ---
